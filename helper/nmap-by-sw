@@ -1,0 +1,4 @@
+#!bin/bash
+
+clear
+python3 $HOME/nmap-by-sw/nmap-by-sw.py
