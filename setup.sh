@@ -61,7 +61,7 @@ sleep 1
 # Check if Nmap is installed
 if ! dpkg -s nmap &> /dev/null; then
     print "Nmap is not installed.\nInstalling..." "red"
-#    apt install nmap -y
+    apt install nmap -y
     print "Nmap Installation Done..!" "purple"
 fi
 echo
@@ -69,7 +69,7 @@ echo
 # Check if Python3 is installed
 if ! dpkg -s python3 &> /dev/null; then
     print "Python3 is not installed.\nInstalling..." "red"
-#    apt install python3 -y
+    apt install python3 -y
     print "Python Installation Done..!" "purple"
 fi
 
