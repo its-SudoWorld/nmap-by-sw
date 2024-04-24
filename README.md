@@ -10,11 +10,12 @@ Author : SUDO WORLD COMMUNITY
 <p>Just Clone the Git repo and Start using Our Nmap automation tool.</p>
 
 <h2>INSTALLATION STEPS AND USES</h2>
+<p> Always Clone the Repo in $HOME directory please </p> 
 <div>
   <ul>
     <li>
       <p>Clone the code repository from Github using the following command:</p>
-      <pre><code>$ git clone https://github.com/ </code></pre>
+      <pre><code>$ git clone https://github.com/its-SudoWorld/nmap-by-sw.git </code></pre>
     </li>
     <li>
       <p>Navigate to the directory of the code repository:</p>
